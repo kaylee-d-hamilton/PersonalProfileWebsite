@@ -1,3 +1,13 @@
+# Kaylee Hamilton's Personal Website
+
+## Home
+Hi! Welcome to my personal website. The purpose of this website is the showcase my accomplishments as an undergraduate student while developing my skills as a programmer using HTML, MVC, and CSS. Click [here](https://drive.google.com/file/d/1zqvhulXFgi_MGrc3KndAV2IZffXgLN0w/view?usp=sharing) to view my resume and click [here](https://www.linkedin.com/in/kayleedhamilton/) to view my LinkedIn profile.
+
+![Img](https://media-exp1.licdn.com/dms/image/C4E03AQEzketI0BvxCg/profile-displayphoto-shrink_200_200/0/1590808563016?e=1624492800&v=beta&t=jkgz_g2NkEpUmhvntkV4muFiprBYASFuexRfRpgaorw)
+
+## About Me
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kaylee-d-hamilton/PersonalProfileWebsite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
